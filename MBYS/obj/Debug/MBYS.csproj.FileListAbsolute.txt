@@ -1,0 +1,247 @@
+C:\Users\Asus\source\repos\MBYS\MBYS\bin\Debug\MBYS.exe.config
+C:\Users\Asus\source\repos\MBYS\MBYS\bin\Debug\MBYS.exe
+C:\Users\Asus\source\repos\MBYS\MBYS\bin\Debug\MBYS.pdb
+C:\Users\Asus\source\repos\MBYS\MBYS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Asus\source\repos\MBYS\MBYS\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Asus\source\repos\MBYS\MBYS\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Asus\source\repos\MBYS\MBYS\bin\Debug\Npgsql.dll
+C:\Users\Asus\source\repos\MBYS\MBYS\bin\Debug\System.Buffers.dll
+C:\Users\Asus\source\repos\MBYS\MBYS\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Asus\source\repos\MBYS\MBYS\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Asus\source\repos\MBYS\MBYS\bin\Debug\System.Memory.dll
+C:\Users\Asus\source\repos\MBYS\MBYS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Asus\source\repos\MBYS\MBYS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Asus\source\repos\MBYS\MBYS\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Asus\source\repos\MBYS\MBYS\bin\Debug\System.Text.Json.dll
+C:\Users\Asus\source\repos\MBYS\MBYS\bin\Debug\System.Threading.Channels.dll
+C:\Users\Asus\source\repos\MBYS\MBYS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Asus\source\repos\MBYS\MBYS\bin\Debug\System.ValueTuple.dll
+C:\Users\Asus\source\repos\MBYS\MBYS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Asus\source\repos\MBYS\MBYS\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Asus\source\repos\MBYS\MBYS\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Asus\source\repos\MBYS\MBYS\bin\Debug\Npgsql.xml
+C:\Users\Asus\source\repos\MBYS\MBYS\bin\Debug\System.Buffers.xml
+C:\Users\Asus\source\repos\MBYS\MBYS\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Asus\source\repos\MBYS\MBYS\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Asus\source\repos\MBYS\MBYS\bin\Debug\System.Memory.xml
+C:\Users\Asus\source\repos\MBYS\MBYS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Asus\source\repos\MBYS\MBYS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Asus\source\repos\MBYS\MBYS\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Asus\source\repos\MBYS\MBYS\bin\Debug\System.Text.Json.xml
+C:\Users\Asus\source\repos\MBYS\MBYS\bin\Debug\System.Threading.Channels.xml
+C:\Users\Asus\source\repos\MBYS\MBYS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Asus\source\repos\MBYS\MBYS\bin\Debug\System.ValueTuple.xml
+C:\Users\Asus\source\repos\MBYS\MBYS\obj\Debug\MBYS.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\MBYS\MBYS\obj\Debug\MBYS.Form1.resources
+C:\Users\Asus\source\repos\MBYS\MBYS\obj\Debug\MBYS.HastaKayit.resources
+C:\Users\Asus\source\repos\MBYS\MBYS\obj\Debug\MBYS.Muayene.resources
+C:\Users\Asus\source\repos\MBYS\MBYS\obj\Debug\MBYS.Properties.Resources.resources
+C:\Users\Asus\source\repos\MBYS\MBYS\obj\Debug\MBYS.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\MBYS\MBYS\obj\Debug\MBYS.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\MBYS\MBYS\obj\Debug\MBYS.csproj.CopyComplete
+C:\Users\Asus\source\repos\MBYS\MBYS\obj\Debug\MBYS.exe
+C:\Users\Asus\source\repos\MBYS\MBYS\obj\Debug\MBYS.pdb
+C:\Users\Asus\source\repos\MBYS\MBYS\obj\Debug\MBYS.Recete.resources
+C:\Users\Asus\source\repos\MBYS\MBYS\obj\Debug\MBYS.HastaListele.resources
+C:\Users\Asus\source\repos\MBYS\MBYS\obj\Debug\MBYS.İlaclar.resources
+C:\Users\Asus\source\repos\MBYS\MBYS\obj\Debug\MBYS.İstenilenHastaListele.resources
+C:\Users\Asus\source\repos\MBYS\MBYS\obj\Debug\MBYS.HastaAdinaGöreAra.resources
+C:\Users\Asus\source\repos\MBYS\MBYS\obj\Debug\MBYS.İlacBilgi.resources
+C:\Users\Asus\Desktop\MBYS\MBYS\bin\Debug\MBYS.exe.config
+C:\Users\Asus\Desktop\MBYS\MBYS\bin\Debug\MBYS.exe
+C:\Users\Asus\Desktop\MBYS\MBYS\bin\Debug\MBYS.pdb
+C:\Users\Asus\Desktop\MBYS\MBYS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Asus\Desktop\MBYS\MBYS\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Asus\Desktop\MBYS\MBYS\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Asus\Desktop\MBYS\MBYS\bin\Debug\Npgsql.dll
+C:\Users\Asus\Desktop\MBYS\MBYS\bin\Debug\System.Buffers.dll
+C:\Users\Asus\Desktop\MBYS\MBYS\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Asus\Desktop\MBYS\MBYS\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Asus\Desktop\MBYS\MBYS\bin\Debug\System.Memory.dll
+C:\Users\Asus\Desktop\MBYS\MBYS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Asus\Desktop\MBYS\MBYS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Asus\Desktop\MBYS\MBYS\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Asus\Desktop\MBYS\MBYS\bin\Debug\System.Text.Json.dll
+C:\Users\Asus\Desktop\MBYS\MBYS\bin\Debug\System.Threading.Channels.dll
+C:\Users\Asus\Desktop\MBYS\MBYS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Asus\Desktop\MBYS\MBYS\bin\Debug\System.ValueTuple.dll
+C:\Users\Asus\Desktop\MBYS\MBYS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Asus\Desktop\MBYS\MBYS\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Asus\Desktop\MBYS\MBYS\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Asus\Desktop\MBYS\MBYS\bin\Debug\Npgsql.xml
+C:\Users\Asus\Desktop\MBYS\MBYS\bin\Debug\System.Buffers.xml
+C:\Users\Asus\Desktop\MBYS\MBYS\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Asus\Desktop\MBYS\MBYS\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Asus\Desktop\MBYS\MBYS\bin\Debug\System.Memory.xml
+C:\Users\Asus\Desktop\MBYS\MBYS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Asus\Desktop\MBYS\MBYS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Asus\Desktop\MBYS\MBYS\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Asus\Desktop\MBYS\MBYS\bin\Debug\System.Text.Json.xml
+C:\Users\Asus\Desktop\MBYS\MBYS\bin\Debug\System.Threading.Channels.xml
+C:\Users\Asus\Desktop\MBYS\MBYS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Asus\Desktop\MBYS\MBYS\bin\Debug\System.ValueTuple.xml
+C:\Users\Asus\Desktop\MBYS\MBYS\obj\Debug\MBYS.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\MBYS\MBYS\obj\Debug\MBYS.Form1.resources
+C:\Users\Asus\Desktop\MBYS\MBYS\obj\Debug\MBYS.HastaAdinaGöreAra.resources
+C:\Users\Asus\Desktop\MBYS\MBYS\obj\Debug\MBYS.HastaKayit.resources
+C:\Users\Asus\Desktop\MBYS\MBYS\obj\Debug\MBYS.HastaListele.resources
+C:\Users\Asus\Desktop\MBYS\MBYS\obj\Debug\MBYS.Muayene.resources
+C:\Users\Asus\Desktop\MBYS\MBYS\obj\Debug\MBYS.Properties.Resources.resources
+C:\Users\Asus\Desktop\MBYS\MBYS\obj\Debug\MBYS.Recete.resources
+C:\Users\Asus\Desktop\MBYS\MBYS\obj\Debug\MBYS.İlacBilgi.resources
+C:\Users\Asus\Desktop\MBYS\MBYS\obj\Debug\MBYS.İlaclar.resources
+C:\Users\Asus\Desktop\MBYS\MBYS\obj\Debug\MBYS.İstenilenHastaListele.resources
+C:\Users\Asus\Desktop\MBYS\MBYS\obj\Debug\MBYS.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\MBYS\MBYS\obj\Debug\MBYS.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\MBYS\MBYS\obj\Debug\MBYS.csproj.CopyComplete
+C:\Users\Asus\Desktop\MBYS\MBYS\obj\Debug\MBYS.exe
+C:\Users\Asus\Desktop\MBYS\MBYS\obj\Debug\MBYS.pdb
+C:\Users\GoGo\Desktop\masaüstü\200601027_Görkem_Şenol_FinalOdev\MBYS\bin\Debug\MBYS.exe.config
+C:\Users\GoGo\Desktop\masaüstü\200601027_Görkem_Şenol_FinalOdev\MBYS\bin\Debug\MBYS.exe
+C:\Users\GoGo\Desktop\masaüstü\200601027_Görkem_Şenol_FinalOdev\MBYS\bin\Debug\MBYS.pdb
+C:\Users\GoGo\Desktop\masaüstü\200601027_Görkem_Şenol_FinalOdev\MBYS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\GoGo\Desktop\masaüstü\200601027_Görkem_Şenol_FinalOdev\MBYS\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\GoGo\Desktop\masaüstü\200601027_Görkem_Şenol_FinalOdev\MBYS\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\GoGo\Desktop\masaüstü\200601027_Görkem_Şenol_FinalOdev\MBYS\bin\Debug\Npgsql.dll
+C:\Users\GoGo\Desktop\masaüstü\200601027_Görkem_Şenol_FinalOdev\MBYS\bin\Debug\System.Buffers.dll
+C:\Users\GoGo\Desktop\masaüstü\200601027_Görkem_Şenol_FinalOdev\MBYS\bin\Debug\System.Collections.Immutable.dll
+C:\Users\GoGo\Desktop\masaüstü\200601027_Görkem_Şenol_FinalOdev\MBYS\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\GoGo\Desktop\masaüstü\200601027_Görkem_Şenol_FinalOdev\MBYS\bin\Debug\System.Memory.dll
+C:\Users\GoGo\Desktop\masaüstü\200601027_Görkem_Şenol_FinalOdev\MBYS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\GoGo\Desktop\masaüstü\200601027_Görkem_Şenol_FinalOdev\MBYS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\GoGo\Desktop\masaüstü\200601027_Görkem_Şenol_FinalOdev\MBYS\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\GoGo\Desktop\masaüstü\200601027_Görkem_Şenol_FinalOdev\MBYS\bin\Debug\System.Text.Json.dll
+C:\Users\GoGo\Desktop\masaüstü\200601027_Görkem_Şenol_FinalOdev\MBYS\bin\Debug\System.Threading.Channels.dll
+C:\Users\GoGo\Desktop\masaüstü\200601027_Görkem_Şenol_FinalOdev\MBYS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\GoGo\Desktop\masaüstü\200601027_Görkem_Şenol_FinalOdev\MBYS\bin\Debug\System.ValueTuple.dll
+C:\Users\GoGo\Desktop\masaüstü\200601027_Görkem_Şenol_FinalOdev\MBYS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\GoGo\Desktop\masaüstü\200601027_Görkem_Şenol_FinalOdev\MBYS\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\GoGo\Desktop\masaüstü\200601027_Görkem_Şenol_FinalOdev\MBYS\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\GoGo\Desktop\masaüstü\200601027_Görkem_Şenol_FinalOdev\MBYS\bin\Debug\Npgsql.xml
+C:\Users\GoGo\Desktop\masaüstü\200601027_Görkem_Şenol_FinalOdev\MBYS\bin\Debug\System.Buffers.xml
+C:\Users\GoGo\Desktop\masaüstü\200601027_Görkem_Şenol_FinalOdev\MBYS\bin\Debug\System.Collections.Immutable.xml
+C:\Users\GoGo\Desktop\masaüstü\200601027_Görkem_Şenol_FinalOdev\MBYS\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\GoGo\Desktop\masaüstü\200601027_Görkem_Şenol_FinalOdev\MBYS\bin\Debug\System.Memory.xml
+C:\Users\GoGo\Desktop\masaüstü\200601027_Görkem_Şenol_FinalOdev\MBYS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\GoGo\Desktop\masaüstü\200601027_Görkem_Şenol_FinalOdev\MBYS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\GoGo\Desktop\masaüstü\200601027_Görkem_Şenol_FinalOdev\MBYS\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\GoGo\Desktop\masaüstü\200601027_Görkem_Şenol_FinalOdev\MBYS\bin\Debug\System.Text.Json.xml
+C:\Users\GoGo\Desktop\masaüstü\200601027_Görkem_Şenol_FinalOdev\MBYS\bin\Debug\System.Threading.Channels.xml
+C:\Users\GoGo\Desktop\masaüstü\200601027_Görkem_Şenol_FinalOdev\MBYS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\GoGo\Desktop\masaüstü\200601027_Görkem_Şenol_FinalOdev\MBYS\bin\Debug\System.ValueTuple.xml
+C:\Users\GoGo\Desktop\masaüstü\200601027_Görkem_Şenol_FinalOdev\MBYS\obj\Debug\MBYS.csproj.AssemblyReference.cache
+C:\Users\GoGo\Desktop\masaüstü\200601027_Görkem_Şenol_FinalOdev\MBYS\obj\Debug\MBYS.csproj.SuggestedBindingRedirects.cache
+C:\Users\GoGo\Desktop\masaüstü\200601027_Görkem_Şenol_FinalOdev\MBYS\obj\Debug\MBYS.Form1.resources
+C:\Users\GoGo\Desktop\masaüstü\200601027_Görkem_Şenol_FinalOdev\MBYS\obj\Debug\MBYS.HastaAdinaGöreAra.resources
+C:\Users\GoGo\Desktop\masaüstü\200601027_Görkem_Şenol_FinalOdev\MBYS\obj\Debug\MBYS.HastaKayit.resources
+C:\Users\GoGo\Desktop\masaüstü\200601027_Görkem_Şenol_FinalOdev\MBYS\obj\Debug\MBYS.HastaListele.resources
+C:\Users\GoGo\Desktop\masaüstü\200601027_Görkem_Şenol_FinalOdev\MBYS\obj\Debug\MBYS.Muayene.resources
+C:\Users\GoGo\Desktop\masaüstü\200601027_Görkem_Şenol_FinalOdev\MBYS\obj\Debug\MBYS.Properties.Resources.resources
+C:\Users\GoGo\Desktop\masaüstü\200601027_Görkem_Şenol_FinalOdev\MBYS\obj\Debug\MBYS.Recete.resources
+C:\Users\GoGo\Desktop\masaüstü\200601027_Görkem_Şenol_FinalOdev\MBYS\obj\Debug\MBYS.İlacBilgi.resources
+C:\Users\GoGo\Desktop\masaüstü\200601027_Görkem_Şenol_FinalOdev\MBYS\obj\Debug\MBYS.İlaclar.resources
+C:\Users\GoGo\Desktop\masaüstü\200601027_Görkem_Şenol_FinalOdev\MBYS\obj\Debug\MBYS.İstenilenHastaListele.resources
+C:\Users\GoGo\Desktop\masaüstü\200601027_Görkem_Şenol_FinalOdev\MBYS\obj\Debug\MBYS.csproj.GenerateResource.cache
+C:\Users\GoGo\Desktop\masaüstü\200601027_Görkem_Şenol_FinalOdev\MBYS\obj\Debug\MBYS.csproj.CoreCompileInputs.cache
+C:\Users\GoGo\Desktop\masaüstü\200601027_Görkem_Şenol_FinalOdev\MBYS\obj\Debug\MBYS.csproj.CopyComplete
+C:\Users\GoGo\Desktop\masaüstü\200601027_Görkem_Şenol_FinalOdev\MBYS\obj\Debug\MBYS.exe
+C:\Users\GoGo\Desktop\masaüstü\200601027_Görkem_Şenol_FinalOdev\MBYS\obj\Debug\MBYS.pdb
+C:\Users\GoGo\Desktop\masaüstü\BOŞ\200601027_Görkem_Şenol_FinalOdev\MBYS\bin\Debug\MBYS.exe.config
+C:\Users\GoGo\Desktop\masaüstü\BOŞ\200601027_Görkem_Şenol_FinalOdev\MBYS\bin\Debug\MBYS.exe
+C:\Users\GoGo\Desktop\masaüstü\BOŞ\200601027_Görkem_Şenol_FinalOdev\MBYS\bin\Debug\MBYS.pdb
+C:\Users\GoGo\Desktop\masaüstü\BOŞ\200601027_Görkem_Şenol_FinalOdev\MBYS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\GoGo\Desktop\masaüstü\BOŞ\200601027_Görkem_Şenol_FinalOdev\MBYS\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\GoGo\Desktop\masaüstü\BOŞ\200601027_Görkem_Şenol_FinalOdev\MBYS\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\GoGo\Desktop\masaüstü\BOŞ\200601027_Görkem_Şenol_FinalOdev\MBYS\bin\Debug\Npgsql.dll
+C:\Users\GoGo\Desktop\masaüstü\BOŞ\200601027_Görkem_Şenol_FinalOdev\MBYS\bin\Debug\System.Buffers.dll
+C:\Users\GoGo\Desktop\masaüstü\BOŞ\200601027_Görkem_Şenol_FinalOdev\MBYS\bin\Debug\System.Collections.Immutable.dll
+C:\Users\GoGo\Desktop\masaüstü\BOŞ\200601027_Görkem_Şenol_FinalOdev\MBYS\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\GoGo\Desktop\masaüstü\BOŞ\200601027_Görkem_Şenol_FinalOdev\MBYS\bin\Debug\System.Memory.dll
+C:\Users\GoGo\Desktop\masaüstü\BOŞ\200601027_Görkem_Şenol_FinalOdev\MBYS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\GoGo\Desktop\masaüstü\BOŞ\200601027_Görkem_Şenol_FinalOdev\MBYS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\GoGo\Desktop\masaüstü\BOŞ\200601027_Görkem_Şenol_FinalOdev\MBYS\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\GoGo\Desktop\masaüstü\BOŞ\200601027_Görkem_Şenol_FinalOdev\MBYS\bin\Debug\System.Text.Json.dll
+C:\Users\GoGo\Desktop\masaüstü\BOŞ\200601027_Görkem_Şenol_FinalOdev\MBYS\bin\Debug\System.Threading.Channels.dll
+C:\Users\GoGo\Desktop\masaüstü\BOŞ\200601027_Görkem_Şenol_FinalOdev\MBYS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\GoGo\Desktop\masaüstü\BOŞ\200601027_Görkem_Şenol_FinalOdev\MBYS\bin\Debug\System.ValueTuple.dll
+C:\Users\GoGo\Desktop\masaüstü\BOŞ\200601027_Görkem_Şenol_FinalOdev\MBYS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\GoGo\Desktop\masaüstü\BOŞ\200601027_Görkem_Şenol_FinalOdev\MBYS\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\GoGo\Desktop\masaüstü\BOŞ\200601027_Görkem_Şenol_FinalOdev\MBYS\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\GoGo\Desktop\masaüstü\BOŞ\200601027_Görkem_Şenol_FinalOdev\MBYS\bin\Debug\Npgsql.xml
+C:\Users\GoGo\Desktop\masaüstü\BOŞ\200601027_Görkem_Şenol_FinalOdev\MBYS\bin\Debug\System.Buffers.xml
+C:\Users\GoGo\Desktop\masaüstü\BOŞ\200601027_Görkem_Şenol_FinalOdev\MBYS\bin\Debug\System.Collections.Immutable.xml
+C:\Users\GoGo\Desktop\masaüstü\BOŞ\200601027_Görkem_Şenol_FinalOdev\MBYS\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\GoGo\Desktop\masaüstü\BOŞ\200601027_Görkem_Şenol_FinalOdev\MBYS\bin\Debug\System.Memory.xml
+C:\Users\GoGo\Desktop\masaüstü\BOŞ\200601027_Görkem_Şenol_FinalOdev\MBYS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\GoGo\Desktop\masaüstü\BOŞ\200601027_Görkem_Şenol_FinalOdev\MBYS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\GoGo\Desktop\masaüstü\BOŞ\200601027_Görkem_Şenol_FinalOdev\MBYS\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\GoGo\Desktop\masaüstü\BOŞ\200601027_Görkem_Şenol_FinalOdev\MBYS\bin\Debug\System.Text.Json.xml
+C:\Users\GoGo\Desktop\masaüstü\BOŞ\200601027_Görkem_Şenol_FinalOdev\MBYS\bin\Debug\System.Threading.Channels.xml
+C:\Users\GoGo\Desktop\masaüstü\BOŞ\200601027_Görkem_Şenol_FinalOdev\MBYS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\GoGo\Desktop\masaüstü\BOŞ\200601027_Görkem_Şenol_FinalOdev\MBYS\bin\Debug\System.ValueTuple.xml
+C:\Users\GoGo\Desktop\masaüstü\BOŞ\200601027_Görkem_Şenol_FinalOdev\MBYS\obj\Debug\MBYS.csproj.AssemblyReference.cache
+C:\Users\GoGo\Desktop\masaüstü\BOŞ\200601027_Görkem_Şenol_FinalOdev\MBYS\obj\Debug\MBYS.csproj.SuggestedBindingRedirects.cache
+C:\Users\GoGo\Desktop\masaüstü\BOŞ\200601027_Görkem_Şenol_FinalOdev\MBYS\obj\Debug\MBYS.Form1.resources
+C:\Users\GoGo\Desktop\masaüstü\BOŞ\200601027_Görkem_Şenol_FinalOdev\MBYS\obj\Debug\MBYS.HastaAdinaGöreAra.resources
+C:\Users\GoGo\Desktop\masaüstü\BOŞ\200601027_Görkem_Şenol_FinalOdev\MBYS\obj\Debug\MBYS.HastaKayit.resources
+C:\Users\GoGo\Desktop\masaüstü\BOŞ\200601027_Görkem_Şenol_FinalOdev\MBYS\obj\Debug\MBYS.HastaListele.resources
+C:\Users\GoGo\Desktop\masaüstü\BOŞ\200601027_Görkem_Şenol_FinalOdev\MBYS\obj\Debug\MBYS.Muayene.resources
+C:\Users\GoGo\Desktop\masaüstü\BOŞ\200601027_Görkem_Şenol_FinalOdev\MBYS\obj\Debug\MBYS.Properties.Resources.resources
+C:\Users\GoGo\Desktop\masaüstü\BOŞ\200601027_Görkem_Şenol_FinalOdev\MBYS\obj\Debug\MBYS.Recete.resources
+C:\Users\GoGo\Desktop\masaüstü\BOŞ\200601027_Görkem_Şenol_FinalOdev\MBYS\obj\Debug\MBYS.İlacBilgi.resources
+C:\Users\GoGo\Desktop\masaüstü\BOŞ\200601027_Görkem_Şenol_FinalOdev\MBYS\obj\Debug\MBYS.İlaclar.resources
+C:\Users\GoGo\Desktop\masaüstü\BOŞ\200601027_Görkem_Şenol_FinalOdev\MBYS\obj\Debug\MBYS.İstenilenHastaListele.resources
+C:\Users\GoGo\Desktop\masaüstü\BOŞ\200601027_Görkem_Şenol_FinalOdev\MBYS\obj\Debug\MBYS.csproj.GenerateResource.cache
+C:\Users\GoGo\Desktop\masaüstü\BOŞ\200601027_Görkem_Şenol_FinalOdev\MBYS\obj\Debug\MBYS.csproj.CoreCompileInputs.cache
+C:\Users\GoGo\Desktop\masaüstü\BOŞ\200601027_Görkem_Şenol_FinalOdev\MBYS\obj\Debug\MBYS.csproj.CopyComplete
+C:\Users\GoGo\Desktop\masaüstü\BOŞ\200601027_Görkem_Şenol_FinalOdev\MBYS\obj\Debug\MBYS.exe
+C:\Users\GoGo\Desktop\masaüstü\BOŞ\200601027_Görkem_Şenol_FinalOdev\MBYS\obj\Debug\MBYS.pdb
+C:\Users\GoGo\Desktop\github projeler\200601027_Görkem_Şenol_FinalOdev\MBYS\bin\Debug\MBYS.exe.config
+C:\Users\GoGo\Desktop\github projeler\200601027_Görkem_Şenol_FinalOdev\MBYS\bin\Debug\MBYS.exe
+C:\Users\GoGo\Desktop\github projeler\200601027_Görkem_Şenol_FinalOdev\MBYS\bin\Debug\MBYS.pdb
+C:\Users\GoGo\Desktop\github projeler\200601027_Görkem_Şenol_FinalOdev\MBYS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\GoGo\Desktop\github projeler\200601027_Görkem_Şenol_FinalOdev\MBYS\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\GoGo\Desktop\github projeler\200601027_Görkem_Şenol_FinalOdev\MBYS\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\GoGo\Desktop\github projeler\200601027_Görkem_Şenol_FinalOdev\MBYS\bin\Debug\Npgsql.dll
+C:\Users\GoGo\Desktop\github projeler\200601027_Görkem_Şenol_FinalOdev\MBYS\bin\Debug\System.Buffers.dll
+C:\Users\GoGo\Desktop\github projeler\200601027_Görkem_Şenol_FinalOdev\MBYS\bin\Debug\System.Collections.Immutable.dll
+C:\Users\GoGo\Desktop\github projeler\200601027_Görkem_Şenol_FinalOdev\MBYS\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\GoGo\Desktop\github projeler\200601027_Görkem_Şenol_FinalOdev\MBYS\bin\Debug\System.Memory.dll
+C:\Users\GoGo\Desktop\github projeler\200601027_Görkem_Şenol_FinalOdev\MBYS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\GoGo\Desktop\github projeler\200601027_Görkem_Şenol_FinalOdev\MBYS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\GoGo\Desktop\github projeler\200601027_Görkem_Şenol_FinalOdev\MBYS\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\GoGo\Desktop\github projeler\200601027_Görkem_Şenol_FinalOdev\MBYS\bin\Debug\System.Text.Json.dll
+C:\Users\GoGo\Desktop\github projeler\200601027_Görkem_Şenol_FinalOdev\MBYS\bin\Debug\System.Threading.Channels.dll
+C:\Users\GoGo\Desktop\github projeler\200601027_Görkem_Şenol_FinalOdev\MBYS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\GoGo\Desktop\github projeler\200601027_Görkem_Şenol_FinalOdev\MBYS\bin\Debug\System.ValueTuple.dll
+C:\Users\GoGo\Desktop\github projeler\200601027_Görkem_Şenol_FinalOdev\MBYS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\GoGo\Desktop\github projeler\200601027_Görkem_Şenol_FinalOdev\MBYS\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\GoGo\Desktop\github projeler\200601027_Görkem_Şenol_FinalOdev\MBYS\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\GoGo\Desktop\github projeler\200601027_Görkem_Şenol_FinalOdev\MBYS\bin\Debug\Npgsql.xml
+C:\Users\GoGo\Desktop\github projeler\200601027_Görkem_Şenol_FinalOdev\MBYS\bin\Debug\System.Buffers.xml
+C:\Users\GoGo\Desktop\github projeler\200601027_Görkem_Şenol_FinalOdev\MBYS\bin\Debug\System.Collections.Immutable.xml
+C:\Users\GoGo\Desktop\github projeler\200601027_Görkem_Şenol_FinalOdev\MBYS\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\GoGo\Desktop\github projeler\200601027_Görkem_Şenol_FinalOdev\MBYS\bin\Debug\System.Memory.xml
+C:\Users\GoGo\Desktop\github projeler\200601027_Görkem_Şenol_FinalOdev\MBYS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\GoGo\Desktop\github projeler\200601027_Görkem_Şenol_FinalOdev\MBYS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\GoGo\Desktop\github projeler\200601027_Görkem_Şenol_FinalOdev\MBYS\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\GoGo\Desktop\github projeler\200601027_Görkem_Şenol_FinalOdev\MBYS\bin\Debug\System.Text.Json.xml
+C:\Users\GoGo\Desktop\github projeler\200601027_Görkem_Şenol_FinalOdev\MBYS\bin\Debug\System.Threading.Channels.xml
+C:\Users\GoGo\Desktop\github projeler\200601027_Görkem_Şenol_FinalOdev\MBYS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\GoGo\Desktop\github projeler\200601027_Görkem_Şenol_FinalOdev\MBYS\bin\Debug\System.ValueTuple.xml
+C:\Users\GoGo\Desktop\github projeler\200601027_Görkem_Şenol_FinalOdev\MBYS\obj\Debug\MBYS.csproj.AssemblyReference.cache
+C:\Users\GoGo\Desktop\github projeler\200601027_Görkem_Şenol_FinalOdev\MBYS\obj\Debug\MBYS.Form1.resources
+C:\Users\GoGo\Desktop\github projeler\200601027_Görkem_Şenol_FinalOdev\MBYS\obj\Debug\MBYS.HastaAdinaGöreAra.resources
+C:\Users\GoGo\Desktop\github projeler\200601027_Görkem_Şenol_FinalOdev\MBYS\obj\Debug\MBYS.HastaKayit.resources
+C:\Users\GoGo\Desktop\github projeler\200601027_Görkem_Şenol_FinalOdev\MBYS\obj\Debug\MBYS.HastaListele.resources
+C:\Users\GoGo\Desktop\github projeler\200601027_Görkem_Şenol_FinalOdev\MBYS\obj\Debug\MBYS.Muayene.resources
+C:\Users\GoGo\Desktop\github projeler\200601027_Görkem_Şenol_FinalOdev\MBYS\obj\Debug\MBYS.Properties.Resources.resources
+C:\Users\GoGo\Desktop\github projeler\200601027_Görkem_Şenol_FinalOdev\MBYS\obj\Debug\MBYS.Recete.resources
+C:\Users\GoGo\Desktop\github projeler\200601027_Görkem_Şenol_FinalOdev\MBYS\obj\Debug\MBYS.İlacBilgi.resources
+C:\Users\GoGo\Desktop\github projeler\200601027_Görkem_Şenol_FinalOdev\MBYS\obj\Debug\MBYS.İlaclar.resources
+C:\Users\GoGo\Desktop\github projeler\200601027_Görkem_Şenol_FinalOdev\MBYS\obj\Debug\MBYS.İstenilenHastaListele.resources
+C:\Users\GoGo\Desktop\github projeler\200601027_Görkem_Şenol_FinalOdev\MBYS\obj\Debug\MBYS.csproj.GenerateResource.cache
+C:\Users\GoGo\Desktop\github projeler\200601027_Görkem_Şenol_FinalOdev\MBYS\obj\Debug\MBYS.csproj.CoreCompileInputs.cache
+C:\Users\GoGo\Desktop\github projeler\200601027_Görkem_Şenol_FinalOdev\MBYS\obj\Debug\MBYS.csproj.CopyComplete
+C:\Users\GoGo\Desktop\github projeler\200601027_Görkem_Şenol_FinalOdev\MBYS\obj\Debug\MBYS.exe
+C:\Users\GoGo\Desktop\github projeler\200601027_Görkem_Şenol_FinalOdev\MBYS\obj\Debug\MBYS.pdb
